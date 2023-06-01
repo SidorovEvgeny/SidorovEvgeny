@@ -35,7 +35,7 @@
 
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 
-<!-- - :telescope: I am a software engineer, my specification is front-end development and creation of web applications. -->
+- :telescope: My specification is front-end development.
 
 - :seedling: Exploring Technical Content Writing.
 
