@@ -66,10 +66,10 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Evgeniy123456&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evgeniy123456&theme=transparent&show_icons=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SidorovEvgeny&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SidorovEvgeny&theme=transparent&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeniy123456&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidorovEvgeny&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
  
 
