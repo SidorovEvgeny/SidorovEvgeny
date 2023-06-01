@@ -5,20 +5,25 @@
 
 <!-- кнопки на соц сети -->
 <div id="badges" align="center">
+  
+<!--   linkedin -->
    <a href="https://www.linkedin.com/in/evgeni-sidorov">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/sidorov_evgenyy">
+  
+<!--   instagram -->
+<!--   <a href="https://www.instagram.com/sidorov_evgenyy">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
+  </a> -->
+  
 <!--   телеграмм -->
-  <a href="https://t.me/I_OMG_FRONTEND">
+  <a href="https://t.me/Evgeny_Sidorovv">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegramm Badge"/>
   </a>
 </div>
 <!-- счетчик посетителей -->
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Evgeniy123456&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=SidorovEvgeny&style=flat-square&color=blue" alt=""/>
  </div>
  
 <h1 align="center">
@@ -30,13 +35,13 @@
 
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 
-- :telescope: I am a software engineer, my specification is front-end development and creation of web applications.
+<!-- - :telescope: I am a software engineer, my specification is front-end development and creation of web applications. -->
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-I_OMG_FRONTEND-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/I_OMG_FRONTEND)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Evgeny_Sidorovv-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Evgeny_Sidorovv)
 
 ---
 
