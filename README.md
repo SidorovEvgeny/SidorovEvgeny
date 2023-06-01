@@ -41,7 +41,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Evgeny_Sidorovv-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Evgeny_Sidorovv)
+<!-- - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Evgeny_Sidorovv-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Evgeny_Sidorovv) -->
 
 ---
 
